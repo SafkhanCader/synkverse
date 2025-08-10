@@ -4,9 +4,9 @@ import emailjs from "@emailjs/browser";
 import { useNavigate } from "react-router-dom";
 
 
-const SERVICE_ID = "service_mlrheqh";
-const USER_TEMPLATE_ID = "template_95ih928";
-const PUBLIC_KEY = "Z9uH2JbktnY8EwRbv";
+const SERVICE_ID = " ";
+const USER_TEMPLATE_ID = " ";
+const PUBLIC_KEY = " ";
 
 export default function InquiryForm() {
   const formRef = useRef(null);
