@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="SynkVerseLogo.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SynkVerse</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+
+    <form name="newsletter" netlify hidden>
+      <input type="email" name="email" />
+    </form>
+
+    <form name="inquiry-form" netlify netlify-honeypot="bot-field" hidden>
+      <input type="text" name="name" />
+      <input type="email" name="email" />
+      <input type="text" name="phone" />
+      <input type="text" name="company" />
+      <input type="text" name="service" />
+      <input type="text" name="projectBudget" />
+      <input type="text" name="timeline" />
+      <textarea name="details"></textarea>
+    </form>
+
+    <form name="discount-inquiry" netlify hidden>
+      <input type="text" name="name" />
+      <input type="email" name="email" />
+      <input type="tel" name="phone" />
+      <input type="text" name="business" />
+      <textarea name="message"></textarea>
+      <input type="text" name="discountCode" />
+    </form>
+
+    <!-- This form is hidden and used only so Netlify recognizes the form -->
+    <form name="contact" netlify netlify-honeypot="bot-field" hidden>
+      <input type="text" name="name" />
+      <input type="email" name="email" />
+      <input type="text" name="subject" />
+      <input type="text" name="inquiry" />
+      <textarea name="message"></textarea>
+    </form>
+
+    <!-- Hidden form for Netlify to detect -->
+    <form name="quote" netlify netlify-honeypot="bot-field" hidden>
+      <input type="text" name="name" />
+      <input type="email" name="email" />
+      <input type="text" name="company" />
+      <input type="text" name="service" />
+      <input type="text" name="budget" />
+      <input type="text" name="timeline" />
+      <textarea name="message"></textarea>
+    </form>
+
+
+    <!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+      var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+      (function(){
+      var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+      s1.async=true;
+      s1.src='https://embed.tawk.to/6870e650a4d3cfd9dc7141d3/1ivsg7akt';
+      s1.charset='UTF-8';
+      s1.setAttribute('crossorigin','*');
+      s0.parentNode.insertBefore(s1,s0);
+      })();
+    </script>
+    <!--End of Tawk.to Script-->
+
+    <!-- Start cookieyes banner --> <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/8c7b0f8ff7a60a88f416af2e/script.js"></script> <!-- End cookieyes banner -->
+  </body>
+</html>
