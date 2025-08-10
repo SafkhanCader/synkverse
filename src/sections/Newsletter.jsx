@@ -33,18 +33,18 @@ export default function Newsletter() {
 
       // 2. Send confirmation to YOU (admin)
       await emailjs.sendForm(
-        "service_kollr9h",
-        "template_t9pv3fp",
+        " ",
+        " ",
         formRef.current,
-        "o5g2OnNxXUevi3Jbf"
+        " "
       );
 
       // 3. Send auto-reply to USER
       await emailjs.send(
-        "service_kollr9h",
-        "template_j7kphka",
+        " ",
+        " ",
         { email },
-        "o5g2OnNxXUevi3Jbf"
+        " "
       );
 
       setStatus("success");
