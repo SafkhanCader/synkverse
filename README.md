@@ -177,8 +177,8 @@ SynkVerse is deployed on Netlify with:
 ![AI Assistant](SynkVerse_Screenshots/Tawk2.png)
 
 ### Cookie - Banner, Acceptance & Console
-![Cookie](SynkVerse_Screenshots/C-page.png)
-![Cookie](SynkVerse_Screenshots/C1-page.png)
+![Cookie](SynkVerse_Screenshots/C.png)
+![Cookie](SynkVerse_Screenshots/C1.png)
 ![Cookie](SynkVerse_Screenshots/Cookie_Console.png)
 
 ---
