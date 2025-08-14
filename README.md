@@ -194,8 +194,8 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 Mohamed Safkhan Abdul Cader — Full-Stack Developer | UK
 
 * 📧 Email: [abdulcadermohamedsafkhan@gmail.com](mailto:your.email@example.com)
-* 🌐 Portfolio: [https://safkhancader.netlify.app/](https://yourportfolio.com)
-* 💼 LinkedIn: [https://linkedin.com/in/mohamed-safkhan-abdul-cader](https://linkedin.com/in/yourhandle)
+* 🌐 Portfolio: [https://safkhancader.netlify.app/](https://safkhancader.netlify.app)
+* 💼 LinkedIn: [https://linkedin.com/in/mohamed-safkhan-abdul-cader](https://linkedin.com/in/mohamed-safkhan-abdul-cader)
 
 ---
 
